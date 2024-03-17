@@ -1,0 +1,36 @@
+<html>
+<head>
+<?php include "header.php" ?>
+</head>
+
+
+<body>
+<?php include "top.php"  ?>
+<div>
+<table width="1000" border="0" cellspacing="0" cellpadding="0" class="main box">
+
+    <tr>
+
+      <td align="left" valign="top"><div class="btm">
+
+          <table width="1000" border="0" cellspacing="0" cellpadding="0">
+
+            <tr>
+
+              <td align="left" valign="top" style="padding:0 !important;"><div align="left" class="pad main_txt" >
+
+                  
+
+
+<h1>Library Rules & Regulations</h1><h4><strong>Library Rules &amp;  Regulations:</strong></h4> <ol>   <li>The Students must carry the Identity &ndash; Card  with him/her to get the books issued /returned.</li>   <li>The students are not permitted to use other&rsquo;s  Identity &ndash; Card/s.&nbsp; The loss of ID card should be immediately reported to  the college Library, office so that a duplicate card may be issued.</li>   <li>The members cannot get issued more than one  book of same kind at a time.</li>   <li>Members are responsible for the books borrowed  against their library ticket.</li>   <li>The students who are enrolled as member in  other libraries on the recommendation of the college library are required to  get the clearance from the concerned library before the final examination of  University of Delhi.</li>   <li>Members are requested to check the condition  of the book before getting issued.&nbsp; Any damage found in the books taken  out for reading or borrowing should be brought to the notice of the staff on  duty before getting issued.</li>   <li>&nbsp;Loss of  any borrowed book must be reported immediately to the Librarian/Library  Staff.&nbsp; The member must replace the lost book / pay the cost of the latest  edition of the lost book along with overdue charges, if any.</li>   <li>Bags, personal belongings and books borrowed  from other libraries are not allowed inside the library.&nbsp; These must be  kept at the property counter at reader&rsquo;s own risk.</li>   <li>Library does not accept any responsibility for  loss or damage to personal property left on its premises.</li>   <li>While leaving the library, members are  required to show their files, file covers, books etc. to the Library Staff on  duty at the check &ndash; point.</li>   <li>Eating, sleeping and smoking are not allowed  in the Library.</li>   <li>Readers should observe strict silence and  switch off their Mobile phones in the Library premises.</li>   <li>Violation of library rules or misconduct by a  member may invite discontinuation of the library privileges.</li> </ol> <h4><strong>Library Membership:</strong></h4> <ol>   <li>Students, teachers, non-teaching and other members of the staff of the  college are entitled to become member of the library. </li> </ol>  <h4><strong>Right of entry to the Library reserved:</strong></h4> <ol>   <li>The right of entry to the Deshbandhu College Library is reserved to the  bonafide students, teachers, non &ndash; teaching and other staff members of the  college.&nbsp; Students are required to keep their Identity Cards with them for  inspection whenever they visit the library.&nbsp; Library staff is authorized  to ask them to show the same at any time.&nbsp; A serious view is taken of  unauthorized entrants. </li> </ol> <hr /> <h1><strong>Library Hours:</strong></h1> <p>The Library is open from Monday to Saturday*.</p> <ul>   <li>Circulation  Section &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;9.00 AM to 4.00 PM</li>   <li>Reading Room &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.00 AM to 5.30PM</li>   <li>Reference Section &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.00 AM to 5.30PM </li> </ul> <p><strong>*</strong> The Circulation Service will be available  from 9.00 AM to 2.00 PM on Saturday</p> <h4><strong>Loan Privileges:</strong></h4> <table border="1" cellspacing="0" cellpadding="0" class="table">   <tbody><tr>     <th width="66" align="center" valign="middle">       <strong>S. No</strong></th>     <th width="192" align="center" valign="middle"><strong>Category</strong></th>     <th width="138" align="center" valign="middle"><strong>Number of Books</strong></th>     <th width="96" align="center" valign="middle"><strong>Loan Period</strong></th>   </tr>   <tr>     <td width="66" valign="top">1.</td>     <td width="192" valign="top">Faculty Members</td>     <td width="138" valign="top">20</td>     <td width="96" valign="top">1Year</td>   </tr>   <tr>     <td width="66" valign="top">2.</td>     <td width="192" valign="top">Non-Teaching    Staff</td>     <td width="138" valign="top">05</td>     <td width="96" valign="top">1Month</td>   </tr>   <tr>     <td width="66" valign="top">3.</td>     <td width="192" valign="top">Master's Degree    Students</td>     <td width="138" valign="top">04</td>     <td width="96" valign="top">14 Days</td>   </tr>   <tr>     <td width="66" valign="top">4</td>     <td width="192" valign="top">Honours Course    Students </td>     <td width="138" valign="top">04</td>     <td width="96" valign="top">14 Days</td>   </tr>   <tr>     <td width="66" valign="top">5.</td>     <td width="192" valign="top">General Course    Students</td>     <td width="138" valign="top">03</td>     <td width="96" valign="top">14 Days</td>   </tr> </tbody></table> <p>The books from Text  Books Section can be borrowed for 5 days only.&nbsp;An overdue fine of Rs. 1/-  per day will be charged if the books are kept above overdue period. </p> <h4><strong>Clearance Certificate:</strong></h4> <ol>   <li>Library       books are the property of the library.&nbsp; Before taking the final       University Examination or termination connection with the college, it is       the responsibility of each and every member to return all library books,       to settle all the library dues if any.</li>   <li>At the time       of getting their library clearance, the students are required to bring       their Identity &ndash; Card.</li>   <li>For getting       clearance from the college library, the students of the post graduate       classes and final year students of all classes are required to bring No &ndash;       Dues certificates from those library/ies also for which their membership       was recommended by the college library.</li>   <li>Those       students, who due to any reason, do not appear in their respective       examination or are declared failed in the same are required to surrender       their library membership so that the same not be misused.&nbsp; After       surrendering their membership, such students get library clearance.</li>   <li>All the       staff members at the time of retirement should get the No Dues certificate       from the library.&nbsp; The Teaching Staff &ndash; members appointed on Adhoc       basis must obtain clearance certificate from the library (in case of       resignation or Termination).&nbsp; The administrative office of the       college should intimate to the library regarding the concerned retired       person, or about the Teacher who have resigned or have been terminated.</li> </ol><br/><br/>
+                  
+                </div></td>
+
+              
+            </tr>
+
+          </table>
+</div>
+<!-- Bottom section -->
+</body>
+</html>
